@@ -1,0 +1,1 @@
+alert("This is first message from JS")
